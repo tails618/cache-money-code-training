@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Cache Money Software Training
+site_url: https://cache-money-code-training.rtfd.io
+
+theme:
+  name: material
